@@ -13,7 +13,7 @@ M.Tech (DSAI) @ IIT Madras
 
 ---
 
-##  About Me
+## 🏛️ About Me
 
  - Currently pursuing M.Tech. in Data Science & Artificial Intelligence @ IIT Madras   
  - B.Tech in Mechanical Engineering @ IIT Indore (2021–2025), CGPA 9.2  
@@ -28,55 +28,28 @@ M.Tech (DSAI) @ IIT Madras
 ---
 
 
-## 🧪 Featured Projects
 
-### 🔐 Privacy-Preserved Federated Learning for Aircraft Engines (B.Tech Project)
-- **Federated XGBoost**: engines train a shared model **without sharing raw data**
-- **Differential Privacy** on each client's model updates
-- Matched **centralised-training accuracy** for RUL prediction on **NASA C-MAPSS**
-
-### 👤 FaceTrace – Face Identification & Blockchain Verification (Hacker House Goa 2026)
-- Pipeline: **DeepFace/OpenCV → MobileNetV2 (1280-d) → Cloud Vision reverse search**
-- Ranks social-media matches by **cosine similarity** (accepts only scores above 0.55)
-
-### 👁️ OCT Retinal Pathology Classification
-- Hand-engineered features: **SIFT, ORB, GLCM, HOG, LBP, wavelets**
-- **SVM reaches 87.2% test accuracy**, beating Decision Tree & KNN
-
-### 🛍️ Personalized Marketing Ads with GenAI (Google AI Exchange)
-- **OpenAI + Gemini** ad generation with an **RL-based seasonal recommender**
-- **Django web app** for sellers to generate personalised email campaigns
-
-### 🤖 Autonomous Navigation in Rough Terrain (MathWorks Challenge)
-- **ROS–MATLAB–Gazebo** co-simulation of multiple rovers
-- **AMCL** localisation with **RRT\*, A\*, Hybrid A\*** planners, plus LiDAR mapping
-
----
 
 ## 🏆 Achievements
 
-- 🥇 **Best B.Tech Project – Mechanical Engineering, IIT Indore (2025)**
-- 🌍 **Top 30 in India – AAKRUTI Global, Dassault Systèmes (2024)**
-- 🤖 **Amazon ML Summer School (2024)**
-- 🏅 **Gold Medal – IITI Summer of Code '23 (Intelligent Vehicles & Robotics)**
-- 💡 **MathWorks Excellence in Innovation (2023)**
-- 📜 **NTSE Scholar – NCERT (2019)**
+-  **Best B.Tech Project – Mechanical Engineering, IIT Indore (2025)**
+-  **Top 30 in India – AAKRUTI Global, Dassault Systèmes 2024 Competition**
+-  **Attended Amazon ML Summer School (2024)**
+-  **MathWorks Excellence in Innovation For Developing Solution for Autonomous Navigation in Rough Terrain**
+-  **NTSE Scholar – Issued By NCERT**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 `Python` `C++` `MATLAB`
 
-### 🤖 AI/ML
-`PyTorch` `TensorFlow` `Scikit-Learn` `XGBoost`  
-`LLMs` `Agentic AI` `Computer Vision` `NLP` `Transformers`  
-`Federated Learning` `Differential Privacy`
+###  AI/ML
+`PyTorch` `TensorFlow` `Scikit-Learn` `Computer Vision` `NLP` `Federated Learning` `Differential Privacy`
 
-### ⚙️ Tools & Platforms
-`Git` `Flask` `Django` `LangChain` `OpenCV`  
-`ROS` `Gazebo` `SOLIDWORKS` `Fusion 360` `AutoCAD`
+###  Tools & Platforms
+`Git` `Flask` `LangChain` `OpenCV`  `ROS` `Gazebo` `SOLIDWORKS` `Fusion 360` `AutoCAD`
 
 ---
 
