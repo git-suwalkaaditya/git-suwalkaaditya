@@ -1,16 +1,143 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Aditya Suwalka</h1>
 
-<!--
-**git-suwalkaaditya/git-suwalkaaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+M.Tech (DSAI) @ IIT Madras
+| Curious about Physical AI, LLMs, Agentic AI, Computer Vision & Digital Twins
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Federated+Learning+%7C+Differential+Privacy;Computer+Vision+%7C+Deep+Learning;Mechanical+Engineer+turned+ML+Engineer&center=true&width=520&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>"The cure for boredom is curiosity. There is no cure for curiosity." – Dorothy Parker</i></p>
+
+---
+
+##  About Me
+
+ - Currently pursuing M.Tech. in Data Science & Artificial Intelligence @ IIT Madras   
+ - B.Tech in Mechanical Engineering @ IIT Indore (2021–2025), CGPA 9.2  
+
+ - Exploring and Passionate about  **ML, LLMs, Computer Vision, Agentic AI and buiding Intelligent Systems**  
+ 
+
+-  Built a **federated, differentially-private XGBoost** system for aircraft-engine RUL prediction. It won **Best B.Tech Project at Mechanical Department**.  Worked on **real-time ICU monitoring** with **IIT Indore × AIIMS Delhi** using YOLO-NAS, ByteTrack and OCR. Spent a year in industry as a **Project Engineer at HPCL**, working on a ₹90 Cr oil-depot project.
+  
+-  Aspiring to become a **Machine Learning Engineer and AI Researcher**.
+
+---
+
+
+## 🧪 Featured Projects
+
+### 🔐 Privacy-Preserved Federated Learning for Aircraft Engines (B.Tech Project)
+- **Federated XGBoost**: engines train a shared model **without sharing raw data**
+- **Differential Privacy** on each client's model updates
+- Matched **centralised-training accuracy** for RUL prediction on **NASA C-MAPSS**
+
+### 👤 FaceTrace – Face Identification & Blockchain Verification (Hacker House Goa 2026)
+- Pipeline: **DeepFace/OpenCV → MobileNetV2 (1280-d) → Cloud Vision reverse search**
+- Ranks social-media matches by **cosine similarity** (accepts only scores above 0.55)
+
+### 👁️ OCT Retinal Pathology Classification
+- Hand-engineered features: **SIFT, ORB, GLCM, HOG, LBP, wavelets**
+- **SVM reaches 87.2% test accuracy**, beating Decision Tree & KNN
+
+### 🛍️ Personalized Marketing Ads with GenAI (Google AI Exchange)
+- **OpenAI + Gemini** ad generation with an **RL-based seasonal recommender**
+- **Django web app** for sellers to generate personalised email campaigns
+
+### 🤖 Autonomous Navigation in Rough Terrain (MathWorks Challenge)
+- **ROS–MATLAB–Gazebo** co-simulation of multiple rovers
+- **AMCL** localisation with **RRT\*, A\*, Hybrid A\*** planners, plus LiDAR mapping
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Best B.Tech Project – Mechanical Engineering, IIT Indore (2025)**
+- 🌍 **Top 30 in India – AAKRUTI Global, Dassault Systèmes (2024)**
+- 🤖 **Amazon ML Summer School (2024)**
+- 🏅 **Gold Medal – IITI Summer of Code '23 (Intelligent Vehicles & Robotics)**
+- 💡 **MathWorks Excellence in Innovation (2023)**
+- 📜 **NTSE Scholar – NCERT (2019)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+`Python` `C++` `MATLAB`
+
+### 🤖 AI/ML
+`PyTorch` `TensorFlow` `Scikit-Learn` `XGBoost`  
+`LLMs` `Agentic AI` `Computer Vision` `NLP` `Transformers`  
+`Federated Learning` `Differential Privacy`
+
+### ⚙️ Tools & Platforms
+`Git` `Flask` `Django` `LangChain` `OpenCV`  
+`ROS` `Gazebo` `SOLIDWORKS` `Fusion 360` `AutoCAD`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 📄 My Resume & Experience:
+- 📎 [Resume Link](YOUR-RESUME-LINK)
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-suwalka" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <!-- Uncomment if you have these:
+  <a href="https://kaggle.com/YOUR-ID" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/YOUR-ID" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  -->
+</p>
+
+---
+
+### 💻 Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+</p>
+
+---
+
+## 📬 Contact
+
+📧 **YOUR-EMAIL**  
+
+---
+
+## ⚡ Fun Fact
+
+💡 I went from designing parts in SOLIDWORKS to tuning gradient boosters. Still optimizing things, just with fewer bolts 🔩😄
