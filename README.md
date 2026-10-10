@@ -21,7 +21,7 @@ M.Tech (DSAI) @ IIT Madras
  - Exploring and Passionate about  **ML, LLMs, Computer Vision, Agentic AI and buiding Intelligent Systems**  
  
 
--  Built a **federated, differentially-private XGBoost** system for aircraft-engine RUL prediction. It won **Best B.Tech Project at Mechanical Department**.  Worked on **real-time ICU monitoring** with **IIT Indore × AIIMS Delhi** using YOLO-NAS, ByteTrack and OCR. Spent a year in industry as a **Project Engineer at HPCL**, working on a ₹90 Cr oil-depot project.
+-  Built a **federated, differentially-private XGBoost** system for aircraft-engine RUL prediction. It won **Best B.Tech Project at Mechanical Engineering Department, IIT Indore**.  Worked on **real-time ICU monitoring** with **IIT Indore × AIIMS Delhi** using YOLO-NAS, ByteTrack and OCR. Spent a year in industry as a **Project Engineer at HPCL**, working on a ₹90 Cr oil-depot project.
   
 -  Aspiring to become a **Machine Learning Engineer and AI Researcher**.
 
