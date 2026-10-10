@@ -17,12 +17,8 @@ M.Tech (DSAI) @ IIT Madras
 
  - Currently pursuing M.Tech. in Data Science & Artificial Intelligence @ IIT Madras   
  - B.Tech in Mechanical Engineering @ IIT Indore (2021–2025), CGPA 9.2  
-
  - Exploring and Passionate about  **ML, LLMs, Computer Vision, Agentic AI and buiding Intelligent Systems**  
- 
-
--  Built a **federated, differentially-private XGBoost** system for aircraft-engine RUL prediction. It won **Best B.Tech Project at Mechanical Engineering Department, IIT Indore**.  Worked on **real-time ICU monitoring** with **IIT Indore × AIIMS Delhi** using YOLO-NAS, ByteTrack and OCR. Spent a year in industry as a **Project Engineer at HPCL**, working on a ₹90 Cr oil-depot project.
-  
+-  Built a **federated, differentially-private XGBoost** system for aircraft-engine RUL prediction. It won **Best B.Tech Project at Mechanical Engineering Department, IIT Indore**.  Worked on **real-time ICU monitoring** with **IIT Indore × AIIMS Delhi** using YOLO-NAS, ByteTrack and OCR. Spent a year in industry as a **Project Engineer at HPCL**, working on a ₹90 Cr oil-depot project. 
 -  Aspiring to become a **Machine Learning Engineer and AI Researcher**.
 
 ---
