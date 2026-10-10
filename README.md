@@ -56,14 +56,12 @@ M.Tech (DSAI) @ IIT Madras
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=git-suwalkaaditya&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=git-suwalkaaditya&theme=tokyonight" />
 </p>
 
 ---
 
-### 📄 My Resume & Experience:
-- 📎 [Resume Link](YOUR-RESUME-LINK)
 
 ### 🌐 Connect With Me
 
@@ -71,7 +69,7 @@ M.Tech (DSAI) @ IIT Madras
   <a href="https://www.linkedin.com/in/aditya-suwalka" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/YOUR-USERNAME" target="_blank">
+  <a href="https://github.com/gitsuwalkaaditya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <!-- Uncomment if you have these:
@@ -105,12 +103,4 @@ M.Tech (DSAI) @ IIT Madras
 
 ---
 
-## 📬 Contact
 
-📧 **YOUR-EMAIL**  
-
----
-
-## ⚡ Fun Fact
-
-💡 I went from designing parts in SOLIDWORKS to tuning gradient boosters. Still optimizing things, just with fewer bolts 🔩😄
